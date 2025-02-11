@@ -1,3 +1,10 @@
-# forum-faso-bara
+## forum-faso-bara
 
-#ce projet est juste pour asssmiler mes connaissance en PHP
+# Ceci un est un projet de forum de recrutement et de mise en contact 
+
+# Techno
+  PHP natif
+  Composer pour l'installtions des dependances tierces
+
+# dependances
+  -
